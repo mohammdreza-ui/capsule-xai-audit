@@ -1,0 +1,57 @@
+# Pre-registered class mapping between Kvasir-Capsule (official-split labels) and
+# Capsule Vision 2024 (folder names). Fixed before any experiment is run; changing it
+# after results exist must be recorded as a deviation in README.md.
+#
+# Kvasir-Capsule labels are the 11 labels that appear in official_splits/split_{0,1}.csv.
+# Ampulla of Vater, Polyp and Blood-hematin are not part of the official splits and are
+# therefore not used anywhere in this repository.
+version: 1
+
+kvasir_labels:
+  - Angiectasia
+  - Blood
+  - Erosion
+  - Erythematous
+  - Foreign Bodies
+  - Ileo-cecal valve
+  - Lymphangiectasia
+  - Normal
+  - Pylorus
+  - Reduced Mucosal View
+  - Ulcer
+
+capsule_vision_labels:
+  - Angioectasia
+  - Bleeding
+  - Erosion
+  - Erythema
+  - Foreign Body
+  - Lymphangiectasia
+  - Normal
+  - Polyp
+  - Ulcer
+  - Worms
+
+# Kvasir label -> Capsule Vision label. Evaluation on Capsule Vision uses only these
+# eight classes; model probabilities are renormalised over them (logit masking).
+shared:
+  Angiectasia: Angioectasia
+  # Kvasir "Blood" is fresh blood only; Capsule Vision "Bleeding" is not split by type.
+  Blood: Bleeding
+  Erosion: Erosion
+  Erythematous: Erythema
+  Foreign Bodies: Foreign Body
+  Lymphangiectasia: Lymphangiectasia
+  Normal: Normal
+  Ulcer: Ulcer
+
+# Anatomical landmarks / view-quality labels with no counterpart in Capsule Vision.
+kvasir_only:
+  - Ileo-cecal valve
+  - Pylorus
+  - Reduced Mucosal View
+
+# Capsule Vision labels with no counterpart among the Kvasir official-split labels.
+capsule_vision_only:
+  - Polyp
+  - Worms

@@ -1,0 +1,81 @@
+{
+  "config": {
+    "paths": {
+      "class_mapping": "/kaggle/working/capsule-xai-audit/configs/class_mapping.yaml",
+      "external_cache": "/tmp/cxa/cache/cv2024_224",
+      "external_index": "/kaggle/working/index/cv2024_external.csv",
+      "kvasir_cache": "/tmp/cxa/cache/kvasir_224",
+      "kvasir_index": "/kaggle/working/index/kvasir.csv",
+      "runs_root": "/kaggle/working/runs"
+    },
+    "superpixel": {
+      "C": 10.0,
+      "backbone": "dinov2_vits14",
+      "batch_size": 64,
+      "compactness": 10.0,
+      "device": "auto",
+      "max_images": 300,
+      "n_bootstrap": 2000,
+      "n_segments": 64,
+      "num_workers": 2,
+      "pointing_tolerance_px": 15,
+      "pretrained": true,
+      "save_graphs": true,
+      "seed": 0,
+      "test_fold": 1
+    }
+  },
+  "mean_superpixels": 58.46333333333333,
+  "n_images": 300,
+  "n_videos": 10,
+  "probe_test_metrics": {
+    "accuracy": 0.7328101644245142,
+    "balanced_accuracy": 0.21212168591049482,
+    "brier": 0.4109742749773074,
+    "classwise_ece": 0.03405858275007612,
+    "ece": 0.1296791974748669,
+    "macro_f1": 0.19710428092778684,
+    "nll": 1.2184939601688536
+  },
+  "provenance": {
+    "cuda": "13.0",
+    "git": {
+      "dirty": null,
+      "revision_file": "09725e3ea5811109552a513cf87006fc984d5742",
+      "sha": null
+    },
+    "gpu": "Tesla T4",
+    "packages": {
+      "captum": "0.9.0",
+      "numpy": "2.1.3",
+      "pandas": "2.3.3",
+      "scikit-image": "0.25.2",
+      "scikit-learn": "1.6.1",
+      "timm": "1.0.30",
+      "torch": "2.11.0+cu130",
+      "torchvision": "0.26.0+cu130"
+    },
+    "platform": "Linux-6.18.55+-x86_64-with-glibc2.39",
+    "python": "3.13.16",
+    "timestamp_utc": "2026-11-17T15:43:26+00:00"
+  },
+  "question": "Slice A",
+  "rates": {
+    "energy_patch": 0.15377613410927474,
+    "energy_superpixel": 0.14962312597480373,
+    "pointing_patch": 0.2733333333333333,
+    "pointing_superpixel": 0.28
+  },
+  "superpixel_minus_patch": {
+    "energy": {
+      "high": 0.0057133737075910134,
+      "low": -0.016233105144066912,
+      "point": -0.0041530081344710035
+    },
+    "pointing": {
+      "high": 0.0909336609336608,
+      "low": -0.06400550458715597,
+      "point": 0.00666666666666671
+    }
+  }
+}

@@ -1,0 +1,662 @@
+{
+  "accuracy_on_images": 0.1,
+  "agreement": {
+    "methods": [
+      "grad_x_input",
+      "gradcam",
+      "integrated_gradients",
+      "random",
+      "saliency"
+    ],
+    "pairs": {
+      "energy~deletion_auc": {
+        "high": 0.6,
+        "low": -0.19999999999999998,
+        "tau": 0.19999999999999998
+      },
+      "energy~insertion_auc": {
+        "high": 0.6,
+        "low": -0.2049999999999997,
+        "tau": 0.19999999999999998
+      },
+      "insertion_auc~deletion_auc": {
+        "high": 0.2049999999999727,
+        "low": -0.7999999999999999,
+        "tau": -0.6
+      },
+      "pointing~deletion_auc": {
+        "high": 0.19999999999999998,
+        "low": -0.39999999999999997,
+        "tau": -0.19999999999999998
+      },
+      "pointing~energy": {
+        "high": 0.9999999999999999,
+        "low": 0.19999999999999998,
+        "tau": 0.6
+      },
+      "pointing~insertion_auc": {
+        "high": 0.39999999999999997,
+        "low": -0.39999999999999997,
+        "tau": -0.19999999999999998
+      }
+    },
+    "rankings": {
+      "deletion_auc": [
+        "gradcam",
+        "saliency",
+        "integrated_gradients",
+        "grad_x_input",
+        "random"
+      ],
+      "energy": [
+        "integrated_gradients",
+        "grad_x_input",
+        "gradcam",
+        "saliency",
+        "random"
+      ],
+      "insertion_auc": [
+        "random",
+        "integrated_gradients",
+        "grad_x_input",
+        "gradcam",
+        "saliency"
+      ],
+      "pointing": [
+        "grad_x_input",
+        "integrated_gradients",
+        "saliency",
+        "gradcam",
+        "random"
+      ]
+    }
+  },
+  "by_correctness": {
+    "correct": {
+      "metrics": {
+        "deletion_auc": {
+          "grad_x_input": {
+            "high": 0.7599634805875399,
+            "low": 0.05228782266393682,
+            "point": 0.6786987446319622
+          },
+          "gradcam": {
+            "high": 0.44298279654885636,
+            "low": 0.027895587522124413,
+            "point": 0.3793404255890787
+          },
+          "integrated_gradients": {
+            "high": 0.7681858674214634,
+            "low": 0.08009956372767918,
+            "point": 0.6927673363547705
+          },
+          "random": {
+            "high": 0.7957729765668918,
+            "low": 0.0866050601118295,
+            "point": 0.7256881300380312
+          },
+          "saliency": {
+            "high": 0.7021066902580155,
+            "low": 0.043248071127331054,
+            "point": 0.6130373991173007
+          }
+        },
+        "energy": {
+          "grad_x_input": {
+            "high": 0.5704103271300728,
+            "low": 0.03911263644695282,
+            "point": 0.4778434745967388
+          },
+          "gradcam": {
+            "high": 0.707352481167323,
+            "low": 0.030555042298510672,
+            "point": 0.6018705447243217
+          },
+          "integrated_gradients": {
+            "high": 0.6206041215037977,
+            "low": 0.051109858534552834,
+            "point": 0.5210856808970372
+          },
+          "random": {
+            "high": 0.41856050979648085,
+            "low": 0.027412066574801098,
+            "point": 0.3517683521534006
+          },
+          "saliency": {
+            "high": 0.4825716407818569,
+            "low": 0.041058921095515996,
+            "point": 0.4062104127680262
+          }
+        },
+        "insertion_auc": {
+          "grad_x_input": {
+            "high": 0.7511485179249641,
+            "low": 0.13745703776611845,
+            "point": 0.6863593395073228
+          },
+          "gradcam": {
+            "high": 0.6915305485924069,
+            "low": 0.28079293306738895,
+            "point": 0.6284661133920906
+          },
+          "integrated_gradients": {
+            "high": 0.759225578533438,
+            "low": 0.12785916573763098,
+            "point": 0.7048907812726485
+          },
+          "random": {
+            "high": 0.8001575229245771,
+            "low": 0.11154566662076286,
+            "point": 0.7318484927297738
+          },
+          "saliency": {
+            "high": 0.7169846193413603,
+            "low": 0.11187633565729267,
+            "point": 0.6450269213146935
+          }
+        },
+        "pointing": {
+          "grad_x_input": {
+            "high": 0.9324324324324325,
+            "low": 0.0,
+            "point": 0.7666666666666667
+          },
+          "gradcam": {
+            "high": 0.9117647058823529,
+            "low": 0.0,
+            "point": 0.8333333333333334
+          },
+          "integrated_gradients": {
+            "high": 0.8529411764705882,
+            "low": 0.0,
+            "point": 0.7666666666666667
+          },
+          "random": {
+            "high": 0.5714285714285714,
+            "low": 0.0,
+            "point": 0.4666666666666667
+          },
+          "saliency": {
+            "high": 0.6973684210526315,
+            "low": 0.0,
+            "point": 0.6333333333333333
+          }
+        }
+      },
+      "n_images": 30,
+      "n_videos": 5
+    },
+    "wrong": {
+      "metrics": {
+        "deletion_auc": {
+          "grad_x_input": {
+            "high": 0.12041526790807924,
+            "low": 0.016672744345301756,
+            "point": 0.05108444613727438
+          },
+          "gradcam": {
+            "high": 0.034620897853748334,
+            "low": 0.006913524263256189,
+            "point": 0.01688903033195378
+          },
+          "integrated_gradients": {
+            "high": 0.1188098974543482,
+            "low": 0.015430864828706578,
+            "point": 0.049008894594190715
+          },
+          "random": {
+            "high": 0.1267579984825799,
+            "low": 0.0208079858363434,
+            "point": 0.05553585612672662
+          },
+          "saliency": {
+            "high": 0.09380934468684228,
+            "low": 0.009375740866912207,
+            "point": 0.03574493618326656
+          }
+        },
+        "energy": {
+          "grad_x_input": {
+            "high": 0.37105156311524967,
+            "low": 0.061929791211812524,
+            "point": 0.1961726320364202
+          },
+          "gradcam": {
+            "high": 0.3003632476380987,
+            "low": 0.061395611348054664,
+            "point": 0.17401256286737246
+          },
+          "integrated_gradients": {
+            "high": 0.37440895852179334,
+            "low": 0.06925205601906305,
+            "point": 0.20450287220430458
+          },
+          "random": {
+            "high": 0.3348847567123713,
+            "low": 0.03816648369103136,
+            "point": 0.1624622205858705
+          },
+          "saliency": {
+            "high": 0.3818156879893932,
+            "low": 0.05422872975921918,
+            "point": 0.19201680176365363
+          }
+        },
+        "insertion_auc": {
+          "grad_x_input": {
+            "high": 0.1031884986706593,
+            "low": 0.018726145212839614,
+            "point": 0.047400017144210625
+          },
+          "gradcam": {
+            "high": 0.11742138206067225,
+            "low": 0.019240010774888523,
+            "point": 0.05096825250669662
+          },
+          "integrated_gradients": {
+            "high": 0.10868630811033131,
+            "low": 0.022175801465815548,
+            "point": 0.05135542917940544
+          },
+          "random": {
+            "high": 0.12950877960642612,
+            "low": 0.019703742804463315,
+            "point": 0.055216424071019815
+          },
+          "saliency": {
+            "high": 0.0913965185497381,
+            "low": 0.01854806771832109,
+            "point": 0.04239417633542237
+          }
+        },
+        "pointing": {
+          "grad_x_input": {
+            "high": 0.5571504559270517,
+            "low": 0.254743679541058,
+            "point": 0.3962962962962963
+          },
+          "gradcam": {
+            "high": 0.43284488488730427,
+            "low": 0.12432409203644132,
+            "point": 0.27037037037037037
+          },
+          "integrated_gradients": {
+            "high": 0.517797362820246,
+            "low": 0.2583782934522257,
+            "point": 0.3851851851851852
+          },
+          "random": {
+            "high": 0.43270833333333325,
+            "low": 0.08579670329670329,
+            "point": 0.23333333333333334
+          },
+          "saliency": {
+            "high": 0.5260346070656091,
+            "low": 0.1757786106418919,
+            "point": 0.3296296296296296
+          }
+        }
+      },
+      "n_images": 270,
+      "n_videos": 10
+    }
+  },
+  "config": {
+    "paths": {
+      "class_mapping": "/kaggle/working/capsule-xai-audit/configs/class_mapping.yaml",
+      "external_cache": "/tmp/cxa/cache/cv2024_224",
+      "external_index": "/kaggle/working/index/cv2024_external.csv",
+      "kvasir_cache": "/tmp/cxa/cache/kvasir_224",
+      "kvasir_index": "/kaggle/working/index/kvasir.csv",
+      "runs_root": "/kaggle/working/runs"
+    },
+    "xai": {
+      "batch_size": 32,
+      "device": "auto",
+      "ig_steps": 32,
+      "max_images": 300,
+      "methods": [
+        "gradcam",
+        "integrated_gradients",
+        "saliency",
+        "grad_x_input",
+        "random"
+      ],
+      "n_bootstrap": 2000,
+      "perturbation_steps": 50,
+      "pointing_tolerance_px": 15,
+      "run": "train/official/resnet50/base/fold1/seed0",
+      "sanity_images": 50,
+      "seed": 0
+    }
+  },
+  "metrics": {
+    "deletion_auc": {
+      "grad_x_input": {
+        "high": 0.28183813210674175,
+        "low": 0.01835967466873359,
+        "point": 0.11384587598674317
+      },
+      "gradcam": {
+        "high": 0.13607463070024797,
+        "low": 0.007436549519300899,
+        "point": 0.05313416985766627
+      },
+      "integrated_gradients": {
+        "high": 0.2847730748785239,
+        "low": 0.017481825099187498,
+        "point": 0.11338473877024867
+      },
+      "random": {
+        "high": 0.29933173780909583,
+        "low": 0.022326095293302088,
+        "point": 0.12255108351785711
+      },
+      "saliency": {
+        "high": 0.24995622478092444,
+        "low": 0.010356545153648453,
+        "point": 0.09347418247666998
+      }
+    },
+    "energy": {
+      "grad_x_input": {
+        "high": 0.39004397201372887,
+        "low": 0.061826516142717024,
+        "point": 0.22433971629245206
+      },
+      "gradcam": {
+        "high": 0.38138605255776603,
+        "low": 0.06083019910971575,
+        "point": 0.21679836105306738
+      },
+      "integrated_gradients": {
+        "high": 0.39882590410049296,
+        "low": 0.06911519561064151,
+        "point": 0.23616115307357782
+      },
+      "random": {
+        "high": 0.3356523634756058,
+        "low": 0.03875257672161527,
+        "point": 0.18139283374262352
+      },
+      "saliency": {
+        "high": 0.3866368044931927,
+        "low": 0.05421671543512641,
+        "point": 0.21343616286409087
+      }
+    },
+    "insertion_auc": {
+      "grad_x_input": {
+        "high": 0.26839570337079083,
+        "low": 0.022063317019628235,
+        "point": 0.11129594938052184
+      },
+      "gradcam": {
+        "high": 0.26111114333277335,
+        "low": 0.02310656917533695,
+        "point": 0.10871803859523603
+      },
+      "integrated_gradients": {
+        "high": 0.27437992781184384,
+        "low": 0.0246638366913553,
+        "point": 0.11670896438872973
+      },
+      "random": {
+        "high": 0.3022564305867455,
+        "low": 0.021718088033318015,
+        "point": 0.12287963093689519
+      },
+      "saliency": {
+        "high": 0.24906819817576115,
+        "low": 0.02134320121828954,
+        "point": 0.1026574508333495
+      }
+    },
+    "pointing": {
+      "grad_x_input": {
+        "high": 0.5965816891369294,
+        "low": 0.2553068265834223,
+        "point": 0.43333333333333335
+      },
+      "gradcam": {
+        "high": 0.5347802048400253,
+        "low": 0.12235257795615931,
+        "point": 0.32666666666666666
+      },
+      "integrated_gradients": {
+        "high": 0.5812091503267973,
+        "low": 0.25351990414710485,
+        "point": 0.42333333333333334
+      },
+      "random": {
+        "high": 0.43505219635211995,
+        "low": 0.09046037946428571,
+        "point": 0.25666666666666665
+      },
+      "saliency": {
+        "high": 0.5490005694760819,
+        "low": 0.175,
+        "point": 0.36
+      }
+    }
+  },
+  "model_run": {
+    "amp": true,
+    "backbone": "resnet50",
+    "batch_size": 64,
+    "channels_last": true,
+    "class_weighting": "inv_sqrt",
+    "color_aug_max_delta_e": 0.0,
+    "color_aug_prob": 0.8,
+    "device": "auto",
+    "early_stopping_patience": 4,
+    "epochs": 12,
+    "eval_batch_size": 128,
+    "grad_clip": 1.0,
+    "log_every_steps": 25,
+    "lr": 0.0002,
+    "max_steps_per_epoch": null,
+    "num_workers": 2,
+    "pretrained": true,
+    "save_val_logits": true,
+    "seed": 0,
+    "select_metric": "macro_f1",
+    "split_protocol": "official",
+    "split_seed": 0,
+    "tag": "base",
+    "test_fold": 1,
+    "val_fraction": 0.15,
+    "warmup_epochs": 1.0,
+    "weight_decay": 0.05
+  },
+  "n_images": 300,
+  "n_videos": 10,
+  "provenance": {
+    "cuda": "13.0",
+    "git": {
+      "dirty": null,
+      "revision_file": "09725e3ea5811109552a513cf87006fc984d5742",
+      "sha": null
+    },
+    "gpu": "Tesla T4",
+    "packages": {
+      "captum": "0.9.0",
+      "numpy": "2.1.3",
+      "pandas": "2.3.3",
+      "scikit-image": "0.25.2",
+      "scikit-learn": "1.6.1",
+      "timm": "1.0.30",
+      "torch": "2.11.0+cu130",
+      "torchvision": "0.26.0+cu130"
+    },
+    "platform": "Linux-6.18.55+-x86_64-with-glibc2.39",
+    "python": "3.13.16",
+    "timestamp_utc": "2026-11-17T15:51:10+00:00"
+  },
+  "question": "Q4",
+  "sanity": {
+    "methods": {
+      "grad_x_input": [
+        {
+          "randomized_through": "fc",
+          "spearman_mean": 0.7702670999198049,
+          "spearman_sd": 0.07578155088333464
+        },
+        {
+          "randomized_through": "layer4",
+          "spearman_mean": 0.5264457108280692,
+          "spearman_sd": 0.1324402051927464
+        },
+        {
+          "randomized_through": "layer3",
+          "spearman_mean": 0.4874507549392873,
+          "spearman_sd": 0.1157979654706829
+        },
+        {
+          "randomized_through": "layer2",
+          "spearman_mean": 0.4429941513590807,
+          "spearman_sd": 0.08443469370919064
+        },
+        {
+          "randomized_through": "layer1",
+          "spearman_mean": 0.3573436402857672,
+          "spearman_sd": 0.08882163820180936
+        },
+        {
+          "randomized_through": "conv1+bn1",
+          "spearman_mean": 0.33910518896174074,
+          "spearman_sd": 0.09714851670545223
+        }
+      ],
+      "gradcam": [
+        {
+          "randomized_through": "fc",
+          "spearman_mean": 0.10492095612891277,
+          "spearman_sd": 0.30784315263762996
+        },
+        {
+          "randomized_through": "layer4",
+          "spearman_mean": 0.1765640350802061,
+          "spearman_sd": 0.2265019406405512
+        },
+        {
+          "randomized_through": "layer3",
+          "spearman_mean": 0.0908072767621538,
+          "spearman_sd": 0.2746378698329693
+        },
+        {
+          "randomized_through": "layer2",
+          "spearman_mean": 0.1949826174268362,
+          "spearman_sd": 0.3566249734719918
+        },
+        {
+          "randomized_through": "layer1",
+          "spearman_mean": 0.15140218413803636,
+          "spearman_sd": 0.4218690216177567
+        },
+        {
+          "randomized_through": "conv1+bn1",
+          "spearman_mean": 0.02309677967513091,
+          "spearman_sd": 0.1872821100818203
+        }
+      ],
+      "integrated_gradients": [
+        {
+          "randomized_through": "fc",
+          "spearman_mean": 0.7957565264111208,
+          "spearman_sd": 0.04834069650622594
+        },
+        {
+          "randomized_through": "layer4",
+          "spearman_mean": 0.48468860136288955,
+          "spearman_sd": 0.1234426680604584
+        },
+        {
+          "randomized_through": "layer3",
+          "spearman_mean": 0.47753743094358225,
+          "spearman_sd": 0.09580555402392049
+        },
+        {
+          "randomized_through": "layer2",
+          "spearman_mean": 0.4309516028957696,
+          "spearman_sd": 0.06754786211891727
+        },
+        {
+          "randomized_through": "layer1",
+          "spearman_mean": 0.35906765822534,
+          "spearman_sd": 0.07992061693448116
+        },
+        {
+          "randomized_through": "conv1+bn1",
+          "spearman_mean": 0.33654566119985196,
+          "spearman_sd": 0.07851326445666472
+        }
+      ],
+      "random": [
+        {
+          "randomized_through": "fc",
+          "spearman_mean": 1.0,
+          "spearman_sd": 4.965068306494546e-17
+        },
+        {
+          "randomized_through": "layer4",
+          "spearman_mean": 1.0,
+          "spearman_sd": 4.965068306494546e-17
+        },
+        {
+          "randomized_through": "layer3",
+          "spearman_mean": 1.0,
+          "spearman_sd": 4.965068306494546e-17
+        },
+        {
+          "randomized_through": "layer2",
+          "spearman_mean": 1.0,
+          "spearman_sd": 4.965068306494546e-17
+        },
+        {
+          "randomized_through": "layer1",
+          "spearman_mean": 1.0,
+          "spearman_sd": 4.965068306494546e-17
+        },
+        {
+          "randomized_through": "conv1+bn1",
+          "spearman_mean": 1.0,
+          "spearman_sd": 4.965068306494546e-17
+        }
+      ],
+      "saliency": [
+        {
+          "randomized_through": "fc",
+          "spearman_mean": 0.7319315867549205,
+          "spearman_sd": 0.0644437316654068
+        },
+        {
+          "randomized_through": "layer4",
+          "spearman_mean": 0.364224886163236,
+          "spearman_sd": 0.10994262864200784
+        },
+        {
+          "randomized_through": "layer3",
+          "spearman_mean": 0.3274748763945514,
+          "spearman_sd": 0.07064515555608754
+        },
+        {
+          "randomized_through": "layer2",
+          "spearman_mean": 0.2983817173761474,
+          "spearman_sd": 0.04663264421494232
+        },
+        {
+          "randomized_through": "layer1",
+          "spearman_mean": 0.21797643165865146,
+          "spearman_sd": 0.03590668983492927
+        },
+        {
+          "randomized_through": "conv1+bn1",
+          "spearman_mean": 0.18191075843006602,
+          "spearman_sd": 0.042958041412170446
+        }
+      ]
+    },
+    "n_images": 50
+  }
+}

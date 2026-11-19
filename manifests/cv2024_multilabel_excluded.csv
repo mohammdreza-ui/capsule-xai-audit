@@ -1,0 +1,540 @@
+image_id,label,cv_split,source
+training/Angioectasia/SEE-AI/image00282,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image00721,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image00729,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image00731,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image00783,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image00787,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image00852,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image00878,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image01323,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image01690,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image02579,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image05725,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image05726,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image06135,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image08466,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image08467,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image08905,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image09518,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image10086,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image10087,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image10300,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image10410,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image11483,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image12489,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image12550,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image12613,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image12971,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image13091,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image13536,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image13681,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image13976,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image15342,Angioectasia,training,SEE-AI
+training/Angioectasia/SEE-AI/image16025,Angioectasia,training,SEE-AI
+training/Bleeding/SEE-AI/image00223,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image00787,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image00788,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image07680,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image07681,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image08326,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image09236,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image09322,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image09337,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image09338,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image09548,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image10410,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image10896,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11790,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11791,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11792,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11812,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11815,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11816,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11824,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11829,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11830,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11835,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11836,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11838,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11839,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11843,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11846,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11847,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11848,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11849,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11850,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11851,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11853,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11855,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11858,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11861,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11879,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11915,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image11916,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image13299,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image13300,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image14074,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image14075,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image14077,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image14081,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image15271,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image15272,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image15273,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image15419,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image15423,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image15431,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image15438,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image15446,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image15463,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image15467,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image15474,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image15617,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image15620,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image15623,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image15625,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image15896,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image16008,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image16011,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image16012,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image16013,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image16014,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image16015,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image17584,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image17726,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image17727,Bleeding,training,SEE-AI
+training/Bleeding/SEE-AI/image17729,Bleeding,training,SEE-AI
+training/Erosion/SEE-AI/image00082,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image00223,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image00294,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image00295,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image00296,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image00301,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image00303,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image00307,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image00729,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image00731,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image00783,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image00787,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image00788,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image01419,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image01421,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image01690,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image01846,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image01855,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image01890,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image01903,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image02120,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image02121,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image02802,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image03567,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image03572,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image05725,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image05726,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image05749,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image05777,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image05785,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image05786,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image05793,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image06135,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image06315,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image06827,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image06828,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image07243,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image07657,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image07680,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image07681,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image07909,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image08201,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image08218,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image08219,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image08598,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image08656,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image08860,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image08878,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image08888,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image08889,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image08891,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image09307,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image09308,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image09312,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image09315,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image09319,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image09320,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image09338,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image09410,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image09838,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image09845,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image09940,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image10086,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image10087,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image10321,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image10861,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image10896,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image10931,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11471,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11483,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11486,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11564,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11566,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11756,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11790,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11791,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11792,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11812,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11815,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11816,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11824,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11829,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11830,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11835,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11836,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11838,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11839,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11843,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11846,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11847,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11848,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11849,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11850,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11851,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11853,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11855,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11858,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11861,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11879,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11915,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11916,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image11932,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image12160,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image12163,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image12169,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image12442,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image12445,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image12485,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image12550,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image12656,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image12657,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image12659,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image12724,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image13299,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image13300,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image13422,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image13594,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image13785,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image13976,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image14116,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15271,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15272,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15273,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15290,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15292,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15293,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15305,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15332,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15335,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15336,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15340,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15411,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15417,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15423,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15427,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15467,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15474,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15617,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15620,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15623,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15625,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image15896,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image16011,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image16012,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image16013,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image16014,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image16015,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image16025,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image17266,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image17268,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image17310,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image17312,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image17594,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image17726,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image17727,Erosion,training,SEE-AI
+training/Erosion/SEE-AI/image17729,Erosion,training,SEE-AI
+training/Erythema/SEE-AI/image00082,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image00294,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image00295,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image00296,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image00301,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image00302,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image00303,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image00304,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image00307,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image00721,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image01846,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image01855,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image01890,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image01903,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image03567,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image03572,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image06441,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image06455,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image06482,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image07243,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image08201,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image08218,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image08219,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image08466,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image08467,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image09307,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image09308,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image09312,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image09315,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image09319,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image09320,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image09322,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image09337,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image09338,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image09410,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image09518,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image09548,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image09804,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image09806,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image09807,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image09812,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image09838,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image09845,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image10456,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image10458,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image10475,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image10861,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image11486,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image12442,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image12445,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image12656,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image12657,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image12659,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image12700,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image12716,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image12724,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image12759,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image12769,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image12784,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image12785,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image12845,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image12856,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image12858,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image12909,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image12938,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image12959,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image13039,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image13091,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image13594,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image14074,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image14075,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image14077,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image14081,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image14116,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image15290,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image15292,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image15293,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image15305,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image15411,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image15417,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image15427,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image15431,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image15438,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image15446,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image16008,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image17266,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image17268,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image17310,Erythema,training,SEE-AI
+training/Erythema/SEE-AI/image17312,Erythema,training,SEE-AI
+training/Foreign Body/SEE-AI/image01574,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image02764,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image02802,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image05749,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image05777,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image05785,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image05786,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image05793,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image06315,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image06827,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image06828,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image07657,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image07909,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image08598,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image08860,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image08878,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image08888,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image08889,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image08891,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image08905,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image09804,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image09806,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image09807,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image09812,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image10321,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image10456,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image10458,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image11471,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image11564,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image11566,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image11756,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image11932,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image12160,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image12163,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image12169,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image12485,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image12489,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image12748,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image12784,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image12785,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image12797,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image13422,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image13785,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image15332,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image15335,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image15336,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image15340,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image17491,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image17584,Foreign Body,training,SEE-AI
+training/Foreign Body/SEE-AI/image17594,Foreign Body,training,SEE-AI
+training/Lymphangiectasia/SEE-AI/image00852,Lymphangiectasia,training,SEE-AI
+training/Lymphangiectasia/SEE-AI/image00878,Lymphangiectasia,training,SEE-AI
+training/Lymphangiectasia/SEE-AI/image01312,Lymphangiectasia,training,SEE-AI
+training/Lymphangiectasia/SEE-AI/image01323,Lymphangiectasia,training,SEE-AI
+training/Lymphangiectasia/SEE-AI/image01419,Lymphangiectasia,training,SEE-AI
+training/Lymphangiectasia/SEE-AI/image01421,Lymphangiectasia,training,SEE-AI
+training/Lymphangiectasia/SEE-AI/image01574,Lymphangiectasia,training,SEE-AI
+training/Lymphangiectasia/SEE-AI/image02764,Lymphangiectasia,training,SEE-AI
+training/Lymphangiectasia/SEE-AI/image06441,Lymphangiectasia,training,SEE-AI
+training/Lymphangiectasia/SEE-AI/image06455,Lymphangiectasia,training,SEE-AI
+training/Lymphangiectasia/SEE-AI/image08326,Lymphangiectasia,training,SEE-AI
+training/Lymphangiectasia/SEE-AI/image09236,Lymphangiectasia,training,SEE-AI
+training/Lymphangiectasia/SEE-AI/image12882,Lymphangiectasia,training,SEE-AI
+training/Lymphangiectasia/SEE-AI/image12883,Lymphangiectasia,training,SEE-AI
+training/Lymphangiectasia/SEE-AI/image15342,Lymphangiectasia,training,SEE-AI
+training/Polyp/SEE-AI/image00282,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image00302,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image00304,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image01312,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image02120,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image02121,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image02579,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image06482,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image08656,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image09940,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image10300,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image10475,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image10931,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image12613,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image12700,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image12716,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image12748,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image12759,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image12769,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image12797,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image12845,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image12856,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image12858,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image12882,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image12883,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image12909,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image12938,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image12959,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image12971,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image13039,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image13536,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image13681,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image15419,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image15463,Polyp,training,SEE-AI
+training/Polyp/SEE-AI/image17491,Polyp,training,SEE-AI
+validation/Angioectasia/SEE-AI/image00730,Angioectasia,validation,SEE-AI
+validation/Angioectasia/SEE-AI/image00854,Angioectasia,validation,SEE-AI
+validation/Angioectasia/SEE-AI/image15502,Angioectasia,validation,SEE-AI
+validation/Bleeding/SEE-AI/image00266,Bleeding,validation,SEE-AI
+validation/Bleeding/SEE-AI/image00267,Bleeding,validation,SEE-AI
+validation/Bleeding/SEE-AI/image00786,Bleeding,validation,SEE-AI
+validation/Bleeding/SEE-AI/image10230,Bleeding,validation,SEE-AI
+validation/Bleeding/SEE-AI/image11852,Bleeding,validation,SEE-AI
+validation/Bleeding/SEE-AI/image11854,Bleeding,validation,SEE-AI
+validation/Bleeding/SEE-AI/image11868,Bleeding,validation,SEE-AI
+validation/Bleeding/SEE-AI/image15464,Bleeding,validation,SEE-AI
+validation/Erosion/SEE-AI/image00084,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image00266,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image00267,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image00730,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image00786,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image01468,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image01836,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image01860,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image01901,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image01921,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image02119,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image05789,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image05984,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image08136,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image10230,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image10365,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image10539,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image10928,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image11423,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image11852,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image11854,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image11868,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image11928,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image12173,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image12239,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image12441,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image12487,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image12658,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image12660,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image12792,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image13092,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image13093,Erosion,validation,SEE-AI
+validation/Erosion/SEE-AI/image15802,Erosion,validation,SEE-AI
+validation/Erythema/SEE-AI/image00084,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image01468,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image01836,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image01860,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image01901,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image01921,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image08136,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image09711,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image09803,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image12441,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image12658,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image12660,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image12674,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image12726,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image12792,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image12854,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image12989,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image13028,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image13092,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image13093,Erythema,validation,SEE-AI
+validation/Erythema/SEE-AI/image15802,Erythema,validation,SEE-AI
+validation/Foreign Body/SEE-AI/image05789,Foreign Body,validation,SEE-AI
+validation/Foreign Body/SEE-AI/image05984,Foreign Body,validation,SEE-AI
+validation/Foreign Body/SEE-AI/image09803,Foreign Body,validation,SEE-AI
+validation/Foreign Body/SEE-AI/image10539,Foreign Body,validation,SEE-AI
+validation/Foreign Body/SEE-AI/image11423,Foreign Body,validation,SEE-AI
+validation/Foreign Body/SEE-AI/image11928,Foreign Body,validation,SEE-AI
+validation/Foreign Body/SEE-AI/image12173,Foreign Body,validation,SEE-AI
+validation/Foreign Body/SEE-AI/image12487,Foreign Body,validation,SEE-AI
+validation/Foreign Body/SEE-AI/image12747,Foreign Body,validation,SEE-AI
+validation/Lymphangiectasia/SEE-AI/image00854,Lymphangiectasia,validation,SEE-AI
+validation/Lymphangiectasia/SEE-AI/image09711,Lymphangiectasia,validation,SEE-AI
+validation/Lymphangiectasia/SEE-AI/image10365,Lymphangiectasia,validation,SEE-AI
+validation/Lymphangiectasia/SEE-AI/image15502,Lymphangiectasia,validation,SEE-AI
+validation/Polyp/SEE-AI/image02119,Polyp,validation,SEE-AI
+validation/Polyp/SEE-AI/image10928,Polyp,validation,SEE-AI
+validation/Polyp/SEE-AI/image12239,Polyp,validation,SEE-AI
+validation/Polyp/SEE-AI/image12658,Polyp,validation,SEE-AI
+validation/Polyp/SEE-AI/image12674,Polyp,validation,SEE-AI
+validation/Polyp/SEE-AI/image12726,Polyp,validation,SEE-AI
+validation/Polyp/SEE-AI/image12747,Polyp,validation,SEE-AI
+validation/Polyp/SEE-AI/image12854,Polyp,validation,SEE-AI
+validation/Polyp/SEE-AI/image12989,Polyp,validation,SEE-AI
+validation/Polyp/SEE-AI/image13028,Polyp,validation,SEE-AI
+validation/Polyp/SEE-AI/image15464,Polyp,validation,SEE-AI

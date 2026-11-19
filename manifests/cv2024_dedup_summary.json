@@ -1,0 +1,44 @@
+{
+  "capsule_vision_frames": 53739,
+  "external_by_label": {
+    "Angioectasia": 749,
+    "Bleeding": 667,
+    "Erosion": 3154,
+    "Erythema": 719,
+    "Foreign Body": 297,
+    "Lymphangiectasia": 528,
+    "Normal": 6612,
+    "Ulcer": 95
+  },
+  "external_by_source": {
+    "AIIMS": 95,
+    "KID": 492,
+    "SEE-AI": 12234
+  },
+  "external_frames": 12821,
+  "frames_by_source": {
+    "AIIMS": 321,
+    "KID": 541,
+    "KVASIR": 38592,
+    "SEE-AI": 14285
+  },
+  "kvasir_by_both": 38534,
+  "kvasir_by_image_match": 38534,
+  "kvasir_by_source_folder": 38592,
+  "kvasir_image_match_only": 0,
+  "kvasir_source_only": 58,
+  "matched_by_cv_label": {
+    "Angioectasia": 866,
+    "Bleeding": 446,
+    "Erosion": 503,
+    "Erythema": 159,
+    "Foreign Body": 776,
+    "Lymphangiectasia": 592,
+    "Normal": 34338,
+    "Ulcer": 854
+  },
+  "max_hamming": 10,
+  "min_ncc": 0.95,
+  "multilabel_images_excluded": 539,
+  "validation_frames_matching_training": 6185
+}

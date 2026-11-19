@@ -1,0 +1,22 @@
+# Slice A: patch vs SLIC-superpixel units on a frozen DINOv2-S linear probe.
+paths:
+  kvasir_index: data/index/kvasir.csv
+  kvasir_cache: cache/kvasir_224
+  class_mapping: configs/class_mapping.yaml
+  runs_root: runs
+
+superpixel:
+  backbone: dinov2_vits14
+  test_fold: 1
+  n_segments: 64
+  compactness: 10.0
+  max_images: 300
+  pointing_tolerance_px: 15
+  C: 10.0
+  pretrained: true
+  n_bootstrap: 2000
+  save_graphs: true
+  seed: 0
+  batch_size: 64
+  num_workers: 4
+  device: auto

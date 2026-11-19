@@ -1,0 +1,35 @@
+# Fine-tuning for Q1 (split protocols), Q2 (seeds -> ensembles) and Slice B (lab-aug tag).
+# Override per run, e.g.:
+#   cxa train --set train.backbone=convnext_tiny train.split_protocol=random train.seed=3
+paths:
+  kvasir_index: data/index/kvasir.csv
+  kvasir_cache: cache/kvasir_224
+  external_index: data/index/cv2024_external.csv
+  external_cache: cache/cv2024_224
+  class_mapping: configs/class_mapping.yaml
+  runs_root: runs
+
+train:
+  backbone: resnet50
+  pretrained: true
+  split_protocol: official
+  test_fold: 1
+  split_seed: 0
+  seed: 0
+  tag: base
+  epochs: 12
+  batch_size: 64
+  eval_batch_size: 128
+  channels_last: true
+  lr: 2.0e-4
+  weight_decay: 0.05
+  warmup_epochs: 1.0
+  grad_clip: 1.0
+  val_fraction: 0.15
+  early_stopping_patience: 4
+  select_metric: macro_f1
+  amp: true
+  num_workers: 4
+  color_aug_max_delta_e: 0.0
+  color_aug_prob: 0.8
+  device: auto

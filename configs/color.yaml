@@ -1,0 +1,21 @@
+# Slice B: controlled CIELAB casts; compares the "base" and "lab-aug" training tags.
+paths:
+  kvasir_index: data/index/kvasir.csv
+  kvasir_cache: cache/kvasir_224
+  external_index: data/index/cv2024_external.csv
+  external_cache: cache/cv2024_224
+  class_mapping: configs/class_mapping.yaml
+  runs_root: runs
+
+color:
+  runs:
+    - train/official/resnet50/base/fold1/seed*
+    - train/official/resnet50/lab-aug/fold1/seed*
+  delta_e: [0.0, 2.0, 5.0, 10.0, 20.0]
+  hue_angles: [0.0, 90.0, 180.0, 270.0]
+  max_images: 5000
+  batch_size: 128
+  num_workers: 4
+  amp: true
+  seed: 0
+  device: auto

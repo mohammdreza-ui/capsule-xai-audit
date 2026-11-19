@@ -1,0 +1,19 @@
+# Q4: attribution methods on one fine-tuned model (official split).
+paths:
+  kvasir_index: data/index/kvasir.csv
+  kvasir_cache: cache/kvasir_224
+  class_mapping: configs/class_mapping.yaml
+  runs_root: runs
+
+xai:
+  run: train/official/resnet50/base/fold1/seed0
+  methods: [gradcam, integrated_gradients, saliency, grad_x_input, random]
+  max_images: 300
+  sanity_images: 50
+  ig_steps: 32
+  perturbation_steps: 50
+  pointing_tolerance_px: 15
+  n_bootstrap: 2000
+  batch_size: 32
+  seed: 0
+  device: auto
